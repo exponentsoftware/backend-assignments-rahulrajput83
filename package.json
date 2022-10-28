@@ -1,0 +1,26 @@
+
+{
+  "name": "backend-assignments-rahulrajput83",
+  "version": "1.0.0",
+  "description": "## TODO List",
+  "main": "index.js",
+  "scripts": {
+    "start": " nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exponentsoftware/backend-assignments-rahulrajput83.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exponentsoftware/backend-assignments-rahulrajput83/issues"
+  },
+  "homepage": "https://github.com/exponentsoftware/backend-assignments-rahulrajput83#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.7.0",
+    "nodemon": "^2.0.20"
+  }
+}
